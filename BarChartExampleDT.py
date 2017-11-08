@@ -7,3 +7,5 @@ import matplotlib.pyplot as plt
 objects = ('Uncharted 4', 'Doom', 'Minecraft', 'LoL', 'AC Syndicate', 'FIFA17')
 y_pos = np.arange(len(objects))
 performance = [120,80,60,40,20,18]
+
+#just a test comment
