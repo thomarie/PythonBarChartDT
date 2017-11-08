@@ -9,3 +9,4 @@ y_pos = np.arange(len(objects))
 performance = [120,80,60,40,20,18]
 
 #just a test comment
+#comment 2
